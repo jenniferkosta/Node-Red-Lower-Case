@@ -1,0 +1,25 @@
+{
+  "name": "node-red-contrib-lower-case",
+  "version": "1.0.0",
+  "description": "Lowercase a string",
+  "main": "02-lower-case.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenniferkosta/Node-Red-Lower-Case.git"
+  },
+  "keywords": [
+    "[\"node-red\"",
+    "\"lower\"",
+    "\"case\"",
+    "\"lower-case\"]"
+  ],
+  "author": "Jennifer Kosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenniferkosta/Node-Red-Lower-Case/issues"
+  },
+  "homepage": "https://github.com/jenniferkosta/Node-Red-Lower-Case#readme"
+}
